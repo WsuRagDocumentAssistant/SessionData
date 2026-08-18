@@ -1,11 +1,11 @@
 [project]
 name = "session-data"
 version = "0.1.0"
-description = "work 함수를 등록하고 체인으로 실행하는 태스크 컨트롤러"
+description = ""
 requires-python = ">=3.11"
 
 [tool.setuptools.packages.find]
-include = ["sessiondata*"]
+include = ["session_data*"]
 
 [build-system]
 requires = ["setuptools>=68"]
